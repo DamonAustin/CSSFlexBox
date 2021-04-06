@@ -1,0 +1,57 @@
+#parent {
+    background: lightblue;
+    padding: 10px;
+    display: flex;
+    height: 500px;
+    flex-flow: row nowrap;
+    
+}
+
+.childitem {
+    flex-basis: 100px;
+}
+
+.child1 {
+    background: cornflowerblue;
+    
+}
+
+.child2 {
+    background: deepskyblue;
+    flex-grow: 1;
+}
+
+.child3 {
+    background: dodgerblue;
+    flex-grow: 1;
+}
+
+.child4 {
+    background: khaki;
+    flex-grow: 1;
+} 
+
+.child5 {
+    background: orange;
+    flex-grow: 1;
+}
+
+.child6 {
+    background: gold;
+    flex-grow: 1;
+}
+
+.child7 {
+    background: darkgreen;
+    flex-grow: 1;
+}
+
+.child8 {
+    background: darkolivegreen;
+    flex-grow: 1;
+}
+
+.child9 {
+    background: forestgreen;
+    
+}
